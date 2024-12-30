@@ -1,1 +1,1 @@
-AIDoctor.github.io
+aidoctor.github.io
