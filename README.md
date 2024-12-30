@@ -1,1 +1,2 @@
-aidoctor.github.io
+[aidoctor.github.io
+](https://tinywatermonster.github.io/aidoctor/)
